@@ -1,0 +1,10 @@
+{
+  "name": "typescript-ver",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
